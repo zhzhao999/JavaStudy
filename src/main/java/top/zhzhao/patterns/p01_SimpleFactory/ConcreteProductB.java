@@ -2,8 +2,8 @@ package top.zhzhao.patterns.p01_SimpleFactory;
 
 /**
  * 具体产品类代码
- * @Author zhzhao
- * @Date 2018/9/7 22:29
+ * @author zhzhao
+ * @version  2018/9/7 22:29
  */
 public class ConcreteProductB extends Product {
     // 实现业务方法

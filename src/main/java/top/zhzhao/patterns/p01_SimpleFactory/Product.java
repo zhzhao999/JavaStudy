@@ -2,8 +2,8 @@ package top.zhzhao.patterns.p01_SimpleFactory;
 
 /**
  * 抽象产品类方法
- * @Author zhzhao
- * @Date 2018/9/7 22:25
+ * @author zhzhao
+ * @version  2018/9/7 22:25
  */
 public abstract class Product {
     //所有产品类的公共业务方法

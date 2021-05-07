@@ -2,8 +2,8 @@ package top.zhzhao.patterns.p01_SimpleFactory;
 
 /**
  * 工厂类
- * @Author zhzhao
- * @Date 2018/9/7 22:33
+ * @author zhzhao
+ * @version 2018/9/7 22:33
  */
 public class Factory {
     public static  Product getProduct(String arg){
